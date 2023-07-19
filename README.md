@@ -10,3 +10,8 @@ Użytnowkin podaje 6 liczb:
 3. Sprawdź ilość trafień
 4. Pokazać ile użytkownik wygrał
 5. Stworzyć walidację real time
+
+## Słownik
+- GIU - Graphical user interface
+- CLI - command line interface
+- API - application programming interface
